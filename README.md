@@ -100,6 +100,8 @@ Or use a .env file + python-dotenv.
 👨‍💻 Author
 
 Developed by Serhii Kolotukhin 
+📍 www.linkedin.com/in/serhii-kolotuhkin-25648a166 
+
 Powered by open-source LLM tools
 📄 License
 
