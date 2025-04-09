@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="800"/>
+</p>
+
 # 🧠 Intelligent Text Classifier & Conversational AI Assistant
 
 An advanced NLP project for **text preprocessing**, **classification**, and **interactive chat** powered by **LangChain** and **OpenAI GPT-3.5**.
