@@ -103,7 +103,7 @@ Or use a .env file + python-dotenv.
 
 👨‍💻 Author
 
-Developed by Serhii Kolotukhin 
+Developed by Serhii Kolotukhin  and Ihor Boichuk
 📍 www.linkedin.com/in/serhii-kolotuhkin-25648a166 
 
 Powered by open-source LLM tools
