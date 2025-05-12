@@ -101,10 +101,7 @@ Or use a .env file + python-dotenv.
 
     🧪 Add unit tests
 
-👨‍💻 Author
 
-Developed by Serhii Kolotukhin  and Ihor Boichuk
-📍 www.linkedin.com/in/serhii-kolotuhkin-25648a166 
 
 Powered by open-source LLM tools
 📄 License
